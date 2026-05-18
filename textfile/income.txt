@@ -1,0 +1,3 @@
+2025-04-01,500.00,Monthly Fee for Student hooibin
+2025-04-05,300.00,Registration Fee for Student James
+2025-04-10,200.00,Other Fee for Student Jane

@@ -1,0 +1,5 @@
+=== Brilliant Tuition Centre Income Report ===
+IC12387, 500, 2025-04-01, Monthly
+IC12345, 500, 2025-04-01, Monthly
+IC67890, 300, 2025-04-05, Registration
+Generated on: 2025-04-11 18:05:11

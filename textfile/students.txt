@@ -1,0 +1,3 @@
+hooibin,hooibin123,IC12387,hooibin@gmail.com,0127847621,789 Street,Form 5,Math|English,January,HooiBin's Guardian,500.00
+James,james123,IC12345,james@gmail.com,0123456789,123 Street,Form 2,English,January,James's Guardian,0123456789,500.00
+Jane,jane123,IC67890,jane@gmail.com,0987654321,456 Avenue,Form 2,Math|English|Science,February,Jane's Guardian,0987654321,300.00

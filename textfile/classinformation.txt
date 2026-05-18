@@ -1,0 +1,4 @@
+qiaohui,Math,Form 5,Monday 10:00 AM,150
+Jonathan,English,Form 5,Monday 12:30 AM,150
+John,English,Form 2,Monday 01:00 PM,100
+Amy,Science,Form 2,Monday 01:00 PM,100
